@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "For loops - Spring Break Review", "For loops - Spring Break Review.pyproj", "{9B759E29-7F33-48AA-AA0C-8CBCA46A16CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B759E29-7F33-48AA-AA0C-8CBCA46A16CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B759E29-7F33-48AA-AA0C-8CBCA46A16CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B216BAE-BEAB-4D2A-BE3C-29327D526F78}
+	EndGlobalSection
+EndGlobal
